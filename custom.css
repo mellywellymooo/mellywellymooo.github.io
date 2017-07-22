@@ -107,7 +107,7 @@
 }
 
 .background-image {
-            background-image: url('Project  Images/gray-2456462_1280.jpg');
+            background-image: url('project-images\gray-2456462_1280.jpg');
             background-repeat: repeat;
             background-size: cover;
             background-position: bottom;
@@ -115,7 +115,7 @@
         } 
 
 .div-background-image {
-            background-image: url('Project  Images/pexels-photo-326243.jpeg');
+            background-image: url('project-images\gray-2456462_1280.jpg');
             background-repeat: no-repeat;
             background-size: cover;
             background-position: bottom;
