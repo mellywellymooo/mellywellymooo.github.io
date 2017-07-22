@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Lato:300i');
+
+.text-header{
+    font-family: 'Dancing Script';
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.text-footer{
+    font-family: 'Dancing Script';
+    font-size: 35px;
+    color: rgb(247, 242, 234);
+    margin-top: -220px;
+}
+
+.text-pink{
+    font-family: 'Dancing Script';
+    color: rgb(160, 160, 160);
+    font-size: 20px;    
+}
+
+.text-normal{
+    font-family: 'Lato', sans-serif;
+    color: rgb(160, 160, 160);
+    font-size: 15px;    
+}
+
+.text-bold{
+    font-family: 'Dancing Script', sans-serif;
+    color: rgb(160, 160, 160);
+    font-size: 35px;
+    font-weight: 600;
+}
+
+#grad {
+    background: rgba(255,192,203, 0.7); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(255,192,203, 0.7), rgba(255,192,203, 0.7)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(255,192,203, 0.7), rgba(255,192,203, 0.7)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(255,192,203, 0.7), rgba(255,192,203, 0.7)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(255,192,203, 0.7), rgba(255,192,203, 0.7)); /* Standard syntax */
+    margin: 0;
+    padding: 25px 0;
+}
+
+#grad-nav {
+    background: rgba(255,192,203, 0.7); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(255,192,203, 0.7), rgba(255,135,156, 0.7)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(255,192,203, 0.7), rgba(255,135,156, 0.7)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(255,192,203, 0.7), rgba(255,135,156, 0.7)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(255,192,203, 0.7), rgba(255,135,156, 0.7)); /* Standard syntax */
+    margin: 0;
+    padding: 25px 0;
+}
+
+#grad-2 {
+    background: rgba(255,192,203, 0.7); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(255,135,156, 0.7), rgba(255, 117, 141, 0.7)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(255,135,156, 0.7), rgba(255, 117, 141, 0.7)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(255,135,156, 0.7), rgba(255, 117, 141, 0.7)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(255,135,156, 0.7), rgba(255, 117, 141, 0.7)); /* Standard syntax */
+    margin: 0;
+    padding: 25px 0;
+}
+
+#grad-3 {
+    background: rgba(255,192,203, 0.7); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(255, 117, 141, 0.7), rgba(252, 85, 114,0.7)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(255, 117, 141, 0.7), rgba(252, 85, 114,0.7)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(255, 117, 141, 0.7), rgba(252, 85, 114,0.7)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(255, 117, 141, 0.7), rgba(252, 85, 114,0.7)); /* Standard syntax */
+    margin: 0;
+    padding: 25px 0;
+}
+
+#grad-4 {
+    background: rgba(255,192,203, 0.7); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(252, 85, 114,0.7), rgba(249, 47, 82, 0.7)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(252, 85, 114,0.7), rgba(249, 47, 82, 0.7)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(252, 85, 114,0.7), rgba(249, 47, 82, 0.7)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(252, 85, 114,0.7), rgba(249, 47, 82, 0.7)); /* Standard syntax */
+    margin: 0;
+    padding: 100px 0px 300px 0px;
+}
+
+
+#grad-5 {
+    background: rgba(255,192,203, 0.7); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(rgba(249, 47, 82, 0.7), rgba(255, 25, 65, 0.7)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(249, 47, 82, 0.7), rgba(255, 25, 65, 0.7)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(249, 47, 82, 0.7), rgba(255, 25, 65, 0.7)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(249, 47, 82, 0.7), rgba(255, 25, 65, 0.7)); /* Standard syntax */
+    margin: 0;
+    padding: 25px 0;
+}
+
+.location-background {
+    background: rgb(247, 242, 234);
+    margin: 0;
+    padding: -100px 0px 10px 0px;
+}
+
+.carousel-background {
+    background: rgb(247, 242, 234);
+    margin: 0;
+    padding: 250px 0;
+}
+
+.background-image {
+            background-image: url('Project  Images/gray-2456462_1280.jpg');
+            background-repeat: repeat;
+            background-size: cover;
+            background-position: bottom;
+            background-attachment: fixed;
+        } 
+
+.div-background-image {
+            background-image: url('Project  Images/pexels-photo-326243.jpeg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: bottom;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 250px 0;
+        } 
+
+.checkmeout-text {
+           margin-top: 3rem;   
+        } 
+
+.a-link {
+            font-weight: 500;
+            color: rgb(160, 160, 160);
+            text-decoration: none;
+            font-family: 'Lato';
+            font-size: 20px;
+        }
+
+.a-link:hover, .a-link:active{
+	        color: rgb(160, 160, 160);
+        }
+
+.a-link:visited{
+            color: #ffffff;
+                }
+
+
+ .inbetween {
+    display: block;
+    height: 200px;
+    border-radius: 5%;
+	margin: auto;
+	margin-top: -150px;
+ }
+
+ .icon-bar {
+    width: 90px;
+    background-color: #ffffff;
+}
